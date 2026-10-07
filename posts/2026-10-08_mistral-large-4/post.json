@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "title": "유럽 미스트랄, 1T 모델 Large 4 공개",
+  "topic_code": "뉴스 7",
+  "template": "news",
+  "theme": {
+    "accent": "#FF7A1A",
+    "font_head": "Noto Serif KR",
+    "bw": true
+  },
+  "music": "cine-1 (Inspiring Cinematic, Kulakovka, Pixabay) 18.7초부터",
+  "motion": "clean: 짧은 페이드, 27초",
+  "instagram": {
+    "카드뉴스": "https://www.instagram.com/p/DeNIq6ekgO4/",
+    "릴스": "https://www.instagram.com/reel/DeNIzurimZ1/"
+  },
+  "caption": "미국도 중국도 아닌, 유럽의 AI가 다시 붙었어요.\n\n프랑스 AI 회사 미스트랄이 1조 파라미터 모델 'Large 4'를 공개했어요. 160개 넘는 언어로 학습했고, 유럽에 있는 자체 데이터센터에서 GPU 3,800장으로 만들었대요. 지금은 미리보기로 써볼 수 있고, 이달 말 누구나 내려받을 수 있는 모델 파일(오픈 웨이트)을 공개할 예정이에요.\n\n마크롱 프랑스 대통령은 이를 'AI의 제3의 길'이라고 표현했어요. 회사가 막으면 못 쓰는 닫힌 모델, 그리고 대부분 중국산인 열린 모델 사이의 대안이 되겠다는 거예요.\n\n쓸 수 있는 AI가 늘어날수록 중요한 건 '무엇을 만들지'예요. 떠오른 아이디어가 있다면 프로필 링크에서 Idea2App으로 시작해 보세요.\n\n출처: Mistral AI 'Introducing Mistral Large 4' (2026-10-06), TechCrunch (2026-10-06) · 사진 Slush/Wikimedia Commons CC BY 4.0\n\n#미스트랄 #MistralAI #AI뉴스 #오픈소스AI #유럽AI #앱만들기 #예비창업자 #Idea2App"
+}
