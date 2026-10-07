@@ -9,5 +9,8 @@
 |---|---|---|
 | 2026-10-08_vibe-coding | 바이브코딩, 진짜 생산성이 오를까요? | [카드뉴스](https://www.instagram.com/p/DeNF9kZEtCM/) · [릴스](https://www.instagram.com/reel/DeNGFSTGhQB/) |
 | 2026-10-08_mistral-large-4-r2 | 유럽 미스트랄, 1T 모델 Large 4 공개 (수정본) | [카드뉴스](https://www.instagram.com/p/DeNJdUWkuFA/) · [릴스](https://www.instagram.com/reel/DeNJoBpiosz/) |
+| 2026-10-08_gpt6-intelligent-ui | GPT-6, 이제 답 대신 화면을 보여줘요 | [카드뉴스](https://www.instagram.com/p/DeNRulNEsBR/) · [릴스](https://www.instagram.com/reel/DeNR8xGAWuV/) |
+| 2026-10-08_github-outage | 깃허브가 멈췄던 밤 | [카드뉴스](https://www.instagram.com/p/DeNSj4JEuCN/) · [릴스](https://www.instagram.com/reel/DeNSsLyHEIV/) |
+| 2026-10-08_claude-haiku-5-5 | 클로드 하이쿠 5.5, API 비용 최대 90% 인하 | [카드뉴스](https://www.instagram.com/p/DeNSLKtEnOC/) · [릴스](https://www.instagram.com/reel/DeNSUcIgogn/) |
 | 2026-10-08_chatgpt-watermark | EU에서 ChatGPT 글에 워터마크 | [카드뉴스](https://www.instagram.com/p/DeNOSeykqzX/) · [릴스](https://www.instagram.com/reel/DeNOcPhE7QA/) |
 | 2026-10-08_ai-game | AI로 게임 만드는 요즘 사람들 근황 | [카드뉴스](https://www.instagram.com/p/DeM7-BVj99M/) · [릴스](https://www.instagram.com/reel/DeM-_e9iPQs/) |
