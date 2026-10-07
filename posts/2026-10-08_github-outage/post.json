@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-08",
+  "title": "깃허브가 멈췄던 밤",
+  "topic_code": "뉴스 5",
+  "template": "dark",
+  "instagram": {
+    "카드뉴스": "https://www.instagram.com/p/DeNSj4JEuCN/",
+    "릴스": "https://www.instagram.com/reel/DeNSsLyHEIV/"
+  },
+  "caption": "깃허브가 멈췄던 밤, 내 코드는 괜찮을까요?\n\n한국 시간 10월 8일 0시 6분부터 깃허브의 Git 작업, Pull Request, Actions, Webhooks, Issues에 광범위한 장애가 있었어요. 0시 58분쯤 모든 시스템이 복구됐고 1시 25분에 해결 처리됐어요. 원인은 아직 공개되지 않았어요.\n\n다행히 깃은 내 컴퓨터에도 전체 기록이 남아 있어서 코드가 사라지진 않아요. 막히는 건 올리기, PR, 자동 배포예요. 자주 커밋하고, 두 번째 원격 저장소를 하나 더 두고, 상태 페이지를 즐겨찾기 해 두면 좋아요.\n\n그 시간에 푸시하다 막히셨나요?\n\n출처: GitHub Status, GeekNews 'GitHub의 Git 작업, Pull Requests, Actions 장애' · 표지 이미지 AI 생성\n\n#깃허브 #GitHub #장애 #개발자 #코드백업 #바이브코딩 #사이드프로젝트 #Idea2App"
+}
