@@ -15,6 +15,7 @@
 | 2026-10-09_coupang-outage | 쿠팡이 멈춘 새벽, 배달기사도 멈췄다 | [카드뉴스](https://www.instagram.com/p/DePXbM-j8vO/) · [릴스](https://www.instagram.com/reel/DeQjHm6konp/) |
 | 2026-10-09_claude-resume-hacker | 금융사 노린 해커, AI에 이력서 맡겼다가 정체 드러나 | [카드뉴스](https://www.instagram.com/p/DeQ9x8hlLQA/) · [릴스](https://www.instagram.com/reel/DeQ96yMk6AK/) |
 | 2026-10-09_claude-model-picker | 클로드 고르는 법: 모르면 Opus, 끝판은 Fable | [카드뉴스](https://www.instagram.com/p/DeQ6ztaFPw-/) · [릴스](https://www.instagram.com/reel/DeQ67q2jwz-/) |
+| 2026-10-09_claude-abuse-policy-v2 | 막말 반복하면 클로드가 먼저 대화 끊는다 (재게시) | [카드뉴스](https://www.instagram.com/p/DeRKOiNEg9L/) · [릴스](https://www.instagram.com/reel/DeRKXcYCeRX/) |
 | 2026-10-09_claude-abuse-policy | AI한테 막말 반복하면 11월부터 정책 위반 (앤트로픽 사용 정책 개정) | [카드뉴스](https://www.instagram.com/p/DeRFKYilELP/) · [릴스](https://www.instagram.com/reel/DeRFWl6DZzM/) |
 | 2026-10-08_vibe-coding | 바이브코딩, 진짜 생산성이 오를까요? | [카드뉴스](https://www.instagram.com/p/DeNF9kZEtCM/) · [릴스](https://www.instagram.com/reel/DeNGFSTGhQB/) |
 | 2026-10-08_mistral-large-4-r2 | 유럽 미스트랄, 1T 모델 Large 4 공개 (수정본) | [카드뉴스](https://www.instagram.com/p/DeNJdUWkuFA/) · [릴스](https://www.instagram.com/reel/DeNJoBpiosz/) |
