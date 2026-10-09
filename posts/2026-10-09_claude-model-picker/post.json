@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-09",
+  "title": "클로드 고르는 법: 모르면 Opus, 끝판은 Fable",
+  "topic_code": "뉴스 2 (10/9)",
+  "template": "ref_dark_qframe",
+  "music": "corp-1 @13.0s",
+  "reel": "9:16 full-bleed 16s, cover smooth zoom",
+  "instagram": {
+    "카드뉴스": "https://www.instagram.com/p/DeQ6ztaFPw-/",
+    "릴스": "https://www.instagram.com/reel/DeQ67q2jwz-/"
+  },
+  "caption": "부호 하나에 논문 3편이 무너졌어요.\n\n오픈AI는 내부 모델이 쓴 수학 논문 719편을 공개해 왔어요. 모델에게 약 4,000개의 미해결 문제를 냈고, 결과 하나에 평균 3시간씩 생각하게 해서 나온 것들이에요.\n\n10월 7일 기록에 따르면, 한 논문에서 부호 오류 하나가 발견됐어요. 그 논문의 결론이 무너지면서 그 결과에 기대던 논문 2편까지 함께 철회됐어요. 다른 14편은 증명을 고쳐 다시 냈고, 13편은 고친 판을 인용하도록 바꿨어요.\n\n오픈AI도 안내문에 '검증을 마치지 않은 결과에는 문제가 있을 수 있다'고 적어뒀어요. 지금 기계(Lean)로 증명까지 확인된 핵심 결과는 약 42%예요.\n\nAI로 앱을 만들 때도 같아요. ① 다른 기능이 기대는 부분부터 확인하고 ② 테스트·자동 검사로 한 번 더 보고 ③ 무엇을 왜 고쳤는지 기록을 남겨두세요.\n\nAI가 만든 결과, 어디까지 믿고 쓰세요?\n\n출처: github.com/openai/math (README, history 2026-10-07), GeekNews 'OpenAI, 수학 논문 3편 철회', Hacker News · 표지 이미지 AI 생성\n\n#OpenAI #오픈AI #AI수학 #AI검증 #바이브코딩 #앱개발 #예비창업자 #Idea2App",
+  "sources": [
+    "https://platform.claude.com/docs/en/models/overview",
+    "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1468748",
+    "https://gall.dcinside.com/mgallery/board/view/?id=chatgpt&no=136798"
+  ],
+  "topic": "커뮤 2 (10/9) · 클로드 고르는 법: 모르면 Opus, 끝판은 Fable"
+}
