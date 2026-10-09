@@ -8,6 +8,7 @@
 | 폴더 | 제목 | 인스타 |
 |---|---|---|
 | 2026-10-09_touch-textbook | 혼자 AI로 만든 무료 교과서, 실험만 4,102개 | [릴스](https://www.instagram.com/reel/DeRNyw_jpFc/) |
+| 2026-10-09_synthid-detector | 이 사진, AI가 만든 걸까? 구글 SynthID 판별 사이트 공개 | [릴스](https://www.instagram.com/reel/DeRPfb4jlra/) |
 | 2026-10-09_porch-app-idea | 내 불편함이 곧 앱 아이디어 (Porch) | [카드뉴스](https://www.instagram.com/p/DePXEjFj0L2/) · [릴스](https://www.instagram.com/reel/DeQi84-ikin/) |
 | 2026-10-09_photocraft-adobe-alternatives | 어도비 앱 7개, 무료로 다시 만든다 (PhotoCraft) | [카드뉴스](https://www.instagram.com/p/DeQ6Uu9FKzd/) · [릴스](https://www.instagram.com/reel/DeQ6kqVEwBh/) |
 | 2026-10-09_openai-math-retraction | 부호 하나에 논문 3편이 무너졌어요 | [카드뉴스](https://www.instagram.com/p/DeQsX7BFLlf/) · [릴스](https://www.instagram.com/reel/DeQsgVNABaM/) |
