@@ -16,6 +16,7 @@
 | 2026-10-09_openai-math-retraction | 부호 하나에 논문 3편이 무너졌어요 | [카드뉴스](https://www.instagram.com/p/DeQsX7BFLlf/) · [릴스](https://www.instagram.com/reel/DeQsgVNABaM/) |
 | 2026-10-09_gemini-free-lite-v2 | 오늘부터 무료 Gemini는 Lite만 남아요 (재게시: 카드 패 연출·영상 슬라이드) | [카드뉴스](https://www.instagram.com/p/DeRH7Qyj1Rw/) · [릴스](https://www.instagram.com/reel/DeRIEQ_EvLX/) |
 | 2026-10-09_gemini-free-lite | 오늘부터 무료 Gemini는 Flash-Lite만 | [카드뉴스](https://www.instagram.com/p/DeRFl_mlIh-/) · [릴스](https://www.instagram.com/reel/DeRFuN5gky4/) |
+| 2026-10-09_dotcom-xai | 오픈AI는 Dots, dot.com은 머스크 xAI 손에 | [카드뉴스](https://www.instagram.com/p/DeRmSV4FKyE/) · [릴스](https://www.instagram.com/reel/DeRmhdbgjP2/) |
 | 2026-10-09_coupang-outage | 쿠팡이 멈춘 새벽, 배달기사도 멈췄다 | [카드뉴스](https://www.instagram.com/p/DePXbM-j8vO/) · [릴스](https://www.instagram.com/reel/DeQjHm6konp/) |
 | 2026-10-09_claude-resume-hacker | 금융사 노린 해커, AI에 이력서 맡겼다가 정체 드러나 | [카드뉴스](https://www.instagram.com/p/DeQ9x8hlLQA/) · [릴스](https://www.instagram.com/reel/DeQ96yMk6AK/) |
 | 2026-10-09_claude-model-picker | 클로드 고르는 법: 모르면 Opus, 끝판은 Fable | [카드뉴스](https://www.instagram.com/p/DeQ6ztaFPw-/) · [릴스](https://www.instagram.com/reel/DeQ67q2jwz-/) |
