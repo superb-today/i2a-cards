@@ -9,7 +9,7 @@
     "카드뉴스": "https://www.instagram.com/p/DeQ6Uu9FKzd/",
     "릴스": "https://www.instagram.com/reel/DeQ6kqVEwBh/"
   },
-  "caption": "부호 하나에 논문 3편이 무너졌어요.\n\n오픈AI는 내부 모델이 쓴 수학 논문 719편을 공개해 왔어요. 모델에게 약 4,000개의 미해결 문제를 냈고, 결과 하나에 평균 3시간씩 생각하게 해서 나온 것들이에요.\n\n10월 7일 기록에 따르면, 한 논문에서 부호 오류 하나가 발견됐어요. 그 논문의 결론이 무너지면서 그 결과에 기대던 논문 2편까지 함께 철회됐어요. 다른 14편은 증명을 고쳐 다시 냈고, 13편은 고친 판을 인용하도록 바꿨어요.\n\n오픈AI도 안내문에 '검증을 마치지 않은 결과에는 문제가 있을 수 있다'고 적어뒀어요. 지금 기계(Lean)로 증명까지 확인된 핵심 결과는 약 42%예요.\n\nAI로 앱을 만들 때도 같아요. ① 다른 기능이 기대는 부분부터 확인하고 ② 테스트·자동 검사로 한 번 더 보고 ③ 무엇을 왜 고쳤는지 기록을 남겨두세요.\n\nAI가 만든 결과, 어디까지 믿고 쓰세요?\n\n출처: github.com/openai/math (README, history 2026-10-07), GeekNews 'OpenAI, 수학 논문 3편 철회', Hacker News · 표지 이미지 AI 생성\n\n#OpenAI #오픈AI #AI수학 #AI검증 #바이브코딩 #앱개발 #예비창업자 #Idea2App",
+  "caption": "포토샵을 AI로 다시 만들면 어떻게 될까요?\n\n사진 편집 앱 'PhotoCraft'가 깃허브에 공개된 지 9일 만에 별 2만 8천 개를 넘었어요. 레이어·마스크·조정 레이어·PSD 파일까지 다루고, 메뉴와 단축키도 포토샵과 비슷하게 맞췄어요. 같은 팀(ArtCraft)은 영상·사진 보정·PDF·디자인 등 어도비 7종을 겨냥한 무료 오픈소스 앱 묶음을 만들고 있어요.\n\n외신 보도에 따르면 만든 사람은 15년 차 개발자로, 레딧에서 클로드 Opus 5.5를 활용했다고 밝혔어요. 스스로 '그냥 바이브코더가 아니'라고 강조했죠. AI가 혼자 만든 게 아니라, 경험 많은 개발자가 AI로 속도를 낸 사례예요.\n\n그리고 개발팀은 '초기 알파이고, 아직 매일 쓰는 전문 작업용 포토샵 대체는 아니다'라고 직접 적어 두었어요.\n\n내 앱에 적용하면\n① 사람들이 익숙한 화면·흐름을 따르고\n② 하나를 먼저 제대로 완성하고\n③ 한계는 먼저 솔직하게 밝히기\n\n포토샵, 갈아탈 수 있을까요? 댓글에 '갈아탐' 또는 '아직'으로 남겨주세요.\n\n출처: github.com/storytold/photocraft (README, 2026.10.9 확인), PetaPixel(2026.10.7), 클리앙 새로운소식 · 표지·3장 이미지 AI 생성 · 2·4장 화면은 PhotoCraft 저장소 이미지(Apache-2.0, 그림은 퍼블릭 도메인)\n\n#포토샵 #오픈소스 #PhotoCraft #클로드 #바이브코딩 #앱개발 #예비창업자 #Idea2App",
   "sources": [
     "https://github.com/storytold/photocraft",
     "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
