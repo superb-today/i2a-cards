@@ -8,6 +8,7 @@
 | 폴더 | 제목 | 인스타 |
 |---|---|---|
 | 2026-10-09_porch-app-idea | 내 불편함이 곧 앱 아이디어 (Porch) | [카드뉴스](https://www.instagram.com/p/DePXEjFj0L2/) · [릴스](https://www.instagram.com/reel/DeQi84-ikin/) |
+| 2026-10-09_openai-math-retraction | 부호 하나에 논문 3편이 무너졌어요 | [카드뉴스](https://www.instagram.com/p/DeQsX7BFLlf/) · [릴스](https://www.instagram.com/reel/DeQsgVNABaM/) |
 | 2026-10-09_coupang-outage | 쿠팡이 멈춘 새벽, 배달기사도 멈췄다 | [카드뉴스](https://www.instagram.com/p/DePXbM-j8vO/) · [릴스](https://www.instagram.com/reel/DeQjHm6konp/) |
 | 2026-10-08_vibe-coding | 바이브코딩, 진짜 생산성이 오를까요? | [카드뉴스](https://www.instagram.com/p/DeNF9kZEtCM/) · [릴스](https://www.instagram.com/reel/DeNGFSTGhQB/) |
 | 2026-10-08_mistral-large-4-r2 | 유럽 미스트랄, 1T 모델 Large 4 공개 (수정본) | [카드뉴스](https://www.instagram.com/p/DeNJdUWkuFA/) · [릴스](https://www.instagram.com/reel/DeNJoBpiosz/) |
