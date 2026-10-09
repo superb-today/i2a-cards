@@ -10,6 +10,7 @@
 | 2026-10-09_porch-app-idea | 내 불편함이 곧 앱 아이디어 (Porch) | [카드뉴스](https://www.instagram.com/p/DePXEjFj0L2/) · [릴스](https://www.instagram.com/reel/DeQi84-ikin/) |
 | 2026-10-09_photocraft-adobe-alternatives | 어도비 앱 7개, 무료로 다시 만든다 (PhotoCraft) | [카드뉴스](https://www.instagram.com/p/DeQ6Uu9FKzd/) · [릴스](https://www.instagram.com/reel/DeQ6kqVEwBh/) |
 | 2026-10-09_openai-math-retraction | 부호 하나에 논문 3편이 무너졌어요 | [카드뉴스](https://www.instagram.com/p/DeQsX7BFLlf/) · [릴스](https://www.instagram.com/reel/DeQsgVNABaM/) |
+| 2026-10-09_gemini-free-lite-v2 | 오늘부터 무료 Gemini는 Lite만 남아요 (재게시: 카드 패 연출·영상 슬라이드) | [카드뉴스](https://www.instagram.com/p/DeRH7Qyj1Rw/) · [릴스](https://www.instagram.com/reel/DeRIEQ_EvLX/) |
 | 2026-10-09_gemini-free-lite | 오늘부터 무료 Gemini는 Flash-Lite만 | [카드뉴스](https://www.instagram.com/p/DeRFl_mlIh-/) · [릴스](https://www.instagram.com/reel/DeRFuN5gky4/) |
 | 2026-10-09_coupang-outage | 쿠팡이 멈춘 새벽, 배달기사도 멈췄다 | [카드뉴스](https://www.instagram.com/p/DePXbM-j8vO/) · [릴스](https://www.instagram.com/reel/DeQjHm6konp/) |
 | 2026-10-09_claude-resume-hacker | 금융사 노린 해커, AI에 이력서 맡겼다가 정체 드러나 | [카드뉴스](https://www.instagram.com/p/DeQ9x8hlLQA/) · [릴스](https://www.instagram.com/reel/DeQ96yMk6AK/) |
