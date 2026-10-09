@@ -8,6 +8,7 @@
 | 폴더 | 제목 | 인스타 |
 |---|---|---|
 | 2026-10-09_touch-textbook | 혼자 AI로 만든 무료 교과서, 실험만 4,102개 | [릴스](https://www.instagram.com/reel/DeRNyw_jpFc/) |
+| 2026-10-09_synthid-detector-v2 | 둘 중 하나는 AI가 만든 사진 · 구글 SynthID 판별 사이트 (재게시: 밝은 판·실제 사진) | [릴스](https://www.instagram.com/reel/DeRRHBFDX0-/) |
 | 2026-10-09_synthid-detector | 이 사진, AI가 만든 걸까? 구글 SynthID 판별 사이트 공개 | [릴스](https://www.instagram.com/reel/DeRPfb4jlra/) |
 | 2026-10-09_surface-laptop-ultra | 노트북 한 대에서 돌아가는 1200억 매개변수 AI (서피스 랩톱 울트라) | [릴스](https://www.instagram.com/reel/DeRQUGbjB7-/) |
 | 2026-10-09_porch-app-idea | 내 불편함이 곧 앱 아이디어 (Porch) | [카드뉴스](https://www.instagram.com/p/DePXEjFj0L2/) · [릴스](https://www.instagram.com/reel/DeQi84-ikin/) |
